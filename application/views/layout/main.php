@@ -22,7 +22,7 @@
     color:#555;
   }
   .lo-container {
-    max-width:700px;
+    max-width:80%;
     margin: 0 auto;
     padding:0 3%;
   }
@@ -104,6 +104,5 @@ if(isset($_view) && $_view)
   </div>
 </footer>
 <script type="text/javascript" src=""<?php echo base_url('resource/js/bootstrap.min.js'); ?>""></script>
-<script type="text/javascript" src=""<?php echo base_url('resource/js/scripts.js'); ?>""></script>
 </body>
 </html>

@@ -428,7 +428,7 @@
 /*----------------------------------------------------------
 #accent
 ----------------------------------------------------------*/
-.style-accent-bg { background-color: #006cff; }
+.style-accent-bg { background-color: gray; }
 .btn-accent { color: #ffffff !important; background-color: #006cff !important; border-color: #006cff !important; }
 .btn-accent:not(.btn-hover-nobg):hover, .btn-accent:not(.btn-hover-nobg):focus,btn-accent:active { background-color: transparent !important; border-color: #006cff !important;}
 .btn-accent.btn-flat:not(.btn-hover-nobg):hover, .btn-accent.btn-flat:not(.btn-hover-nobg):focus,btn-accent.btn-flat:active { background-color: #005ff2 !important; border-color: #005ff2 !important;}
